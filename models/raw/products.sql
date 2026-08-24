@@ -4,4 +4,4 @@
     )
 }}
 
-Select * form RAW.GLOBALMART.PRODUCTS
+Select * from raw.globalmart.products
